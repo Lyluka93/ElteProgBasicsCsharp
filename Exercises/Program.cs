@@ -6,7 +6,9 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Task001.Run(args);
+            //Task002.Run(args);
+            
         }
     }
 }
